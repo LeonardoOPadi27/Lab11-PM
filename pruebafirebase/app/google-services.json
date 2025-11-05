@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868940315585",
+    "project_id": "prueba-firebase-c191f",
+    "storage_bucket": "prueba-firebase-c191f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868940315585:android:cb5bf5d81f192e7974cd40",
+        "android_client_info": {
+          "package_name": "com.mediturn.pruebafirebae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--ozvIjaZ87ivmnA2E2cI8AahdS4V4dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
